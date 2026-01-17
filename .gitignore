@@ -1,0 +1,10 @@
+# SSH Private Keys - NEVER commit these to GitHub!
+trading_cloud_server_key
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.tar.gz
